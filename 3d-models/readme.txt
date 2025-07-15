@@ -1,0 +1,1 @@
+Ich weiß nicht, welches Format für den Drucker benötigt wird, also habe ich 3 Formate im Verzeichnis 1 hinterlassen: Es gibt 1 Modell und Anweisungen

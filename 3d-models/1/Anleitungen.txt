@@ -1,0 +1,4 @@
+breite:2cm
+höhe:4cm
+Tiefe:2cm 
+farbe:weiss 

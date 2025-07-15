@@ -1,0 +1,5 @@
+breite:2cm
+höhe:2cm
+Tiefe:1cm 
+farbe: schwarz
+2 Stück
